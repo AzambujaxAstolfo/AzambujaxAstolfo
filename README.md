@@ -1,6 +1,6 @@
 Welcome to my profile 🎀
 
-My name is Laura Lahoz! 
+My name is **Laura Lahoz**! 
 
 - I'm studying at Alura
 - I'm developing learning about JavaScript
@@ -12,7 +12,7 @@ My name is Laura Lahoz!
 
   Bienvenidos a mi perfil 🎀
 
-  Mi nombre es Laura Lahoz
+  Mi nombre es **Laura Lahoz**!
 
   - Estoy estudiando Alura
   - Estoy aprendiendo y desenvolviendo sobre JavaScript
@@ -23,7 +23,7 @@ My name is Laura Lahoz!
 
     Bem-vindos ao meu perfil 🎀
 
-    Meu nome é Laura Lahoz
+    Meu nome é **Laura Lahoz**!
 
     - Estou estudando no Alura
     - Estou desenvolvendo e aprendendo sobre JavaScript
